@@ -2,7 +2,6 @@
 ## _Jhonatan Betancur_
 
 Este pequeño diseño fue implementado para aprender y practicar las siguientes tecnologías.
-os procesadores de HTML (PUG) y de CSS (SASS).
 
 - HTML 
     - PUG
